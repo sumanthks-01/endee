@@ -220,8 +220,7 @@ for s in result["sources"]:
 ## Evaluation Notes
 
 This repository is a fork of [endee-io/endee](https://github.com/endee-io/endee).
-As part of the evaluation requirements, the original repository has been ⭐ starred
-and 🍴 forked. The AI search engine application lives in the `ai_search_engine/`
+The AI search engine application lives in the `ai_search_engine/`
 directory and is self-contained — it only communicates with Endee through its
 documented HTTP API.
 
